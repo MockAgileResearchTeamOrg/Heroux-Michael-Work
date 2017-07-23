@@ -6,3 +6,9 @@
 *.blg
 
 bibliography/bibliography.log
+
+thesis/MyThesis.log
+
+thesis/MyThesis.pdf
+
+thesis/MyThesis.synctex.gz
