@@ -1,6 +1,6 @@
 ## Michael Heroux, PhD student, individual project work
 
-This mock repo illustrates how to manage and retain the work of a research student or post-doc, or any team member who is categorically "transient".  Of course, any team member can have such a repo, but it is particularly important to have this repo for those team members who are expected to come to the project, make a strong contribution, and then depart in a few years to a new situation.
+This mock repo illustrates how to manage and retain the work of a research student or post-doc, or any team member who is categorically transient.  Of course, any team member can have such a repo, but it is particularly important to have this repo for those team members who are expected to come to the project, make a strong contribution, and then depart in a few years to a new situation.
 
 ### What should be kept in this repo
 
